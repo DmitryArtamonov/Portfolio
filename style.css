@@ -36,8 +36,13 @@ header{
     
 }
 
-.navbar{
-    background-color: black;
+#black-nav{
+    background-color: black ;
+}
+
+.cstm-card{
+    color: white;
+    border: 2px solid rgba(255, 255, 255, 0.469)
 }
 
 .test{
