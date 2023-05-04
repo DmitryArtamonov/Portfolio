@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Aref+Ruqaa+Ink:wght@400;700&family=M+PLUS+Code+Latin:wght@600&family=Nanum+Pen+Script&display=swap');
+
+/* font-family: 'Aref Ruqaa Ink', serif;
+font-family: 'M PLUS Code Latin', sans-serif;
+font-family: 'Nanum Pen Script', cursive; */
+
+html,h1,h3,h4,h5,h6,a{
+    font-family: 'Aref Ruqaa Ink', serif;
+}
+
+body{
+    background-color: black;
+}
+
+h2, nav *{
+    font-family: 'M PLUS Code Latin', sans-serif;
+}
+
+h1{
+    font-size: 5rem;
+    margin-top: 20vh;
+}
+
+h1,h2{
+    color: white;
+}
+
+header{
+    width: 100vw;
+    background-image: url(laptop.jpg);
+    background-attachment: fixed;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 80vh;
+    
+}
+
+.navbar{
+    background-color: black;
+}
+
+.test{
+    border: 2px solid red
+}
